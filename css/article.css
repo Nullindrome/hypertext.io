@@ -14,3 +14,8 @@
 .section {
     padding-top: 20px;
 }
+
+.page-container > .content-wrapper > .section > p {
+    letter-spacing: 1px;
+    line-height: 30px;
+}
